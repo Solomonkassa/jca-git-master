@@ -182,3 +182,4 @@ jca-git-master-production/
 ├── README.md
 └── CHANGELOG.md
 ```
+* Solomon Kassa *
